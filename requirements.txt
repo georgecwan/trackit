@@ -4,7 +4,8 @@ click==7.1.2
 colorclass==2.2.0
 docopt==0.6.2
 Flask==2.2.5
-idna==2.10
+Flask==1.1.2
+idna==3.7
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
@@ -14,5 +15,5 @@ pyparsing==2.4.7
 requests==2.24.0
 six==1.15.0
 terminaltables==3.1.0
-urllib3==1.25.10
+urllib3==1.26.19
 Werkzeug==3.0.3
